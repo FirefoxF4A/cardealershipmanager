@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="$USER_HOME$/bin/android-studio-162.3764568/AndroidStudioProjects/cardealershipmanager/cardealershipmanager.iml" />
+    <option name="myPathToGit" value="/usr/bin/git" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
 </application>
